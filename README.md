@@ -154,7 +154,7 @@ The desktop window will launch automatically. The simulation starts immediately 
 
 ## 📄 License
 
-This project is open source. Feel free to fork, modify, and build upon it.
+This project is open source. But dont modify this Because this is a 3 week project for my practice.
 
 ---
 
